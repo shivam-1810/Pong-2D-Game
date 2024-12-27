@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pong 2D</string>
+    
+    <string name="state">Ready</string>
+    <string name="mode_win">You won!</string>
+    <string name="mode_lose">You lose!</string>
+    <string name="mode_pause">You lose!</string>
+</resources>
